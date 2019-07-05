@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AmarnathTSR/EmployeeManagementSystem.git"
+    "url": "git+https://github.com/DickensJuma/EmployeeManagementSystem.git"
   },
   "keywords": [
     "humanresource",
@@ -25,9 +25,9 @@
   "author": "Amarnath TSR",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AmarnathTSR/EmployeeManagementSystem/issues"
+    "url": "https://github.com/DickensJuma/EmployeeManagementSystem/issues"
   },
-  "homepage": "https://github.com/AmarnathTSR/EmployeeManagementSystem#readme",
+  "homepage": "https://github.com/DickensJuma/EmployeeManagementSystem#readme",
   "dependencies": {
     "bcrypt": "^3.0.3",
     "body-parser": "^1.18.3",

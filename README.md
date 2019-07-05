@@ -49,7 +49,7 @@ If you want to hire me in your MERN Stack Project contact me via : [Email](dicke
 
 ### Author
 
-Amarnath TSR
+
 [DickensJuma](https://github.com/DickensJuma)
 
 ### Version
