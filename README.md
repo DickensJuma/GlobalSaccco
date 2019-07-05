@@ -45,12 +45,12 @@ Demo URL : https://mern-ems.herokuapp.com/
 Admin Username: test@test.com
 Password : password
 
-If you want to hire me in your MERN Stack Project contact me via : https://amarnath.xyz/contact/
+If you want to hire me in your MERN Stack Project contact me via : [Email](dickensjuma13@gmail.com)
 
 ### Author
 
 Amarnath TSR
-[Amarnath](http://www.amarnath.xyz)
+[DickensJuma](https://github.com/DickensJuma)
 
 ### Version
 
