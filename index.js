@@ -38,7 +38,7 @@ mongoose
   .connect(
     mongouri,
     {
-      useNewUrlParser: true
+    useNewUrlParser: true 
     }
   )
   .then(() => console.log("DB connected success"))
