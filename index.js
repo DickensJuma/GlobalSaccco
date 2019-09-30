@@ -12,7 +12,7 @@ const transfer = require("./routes/api/transfer");
 
 // Import Keys
 const uri = require("./config/keys");
-const mongouri = uri.mongoUri;
+const mongouri = uri.mongoURI;
 
 // Initialize the app
 const app = express();

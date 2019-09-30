@@ -18,11 +18,11 @@ class Landing extends Component {
             <div className="row">
               <div className="col-md-12 text-center">
                 <h1 className="mb-4">EMS - Employee Management System</h1>
-                <p className="lead">
+                {/* <p className="lead">
                   {" "}
                   Using MERN Stack - ReactJS, ReduxJS, ExpressJS, NodeJS and
                   MongoDB{" "}
-                </p>
+                </p> */}
                 <hr />
 
                 <Link to="/login" className="btn btn-lg btn-light">
