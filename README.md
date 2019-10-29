@@ -1,10 +1,10 @@
-# EmployeeManagementSystem - EMS - MERN STACKS
+# GLOBALSACCO - MERN STACKS
 
-Employee Management System using MERN Stack (NodeJS, ReactJS, ExpressJS and MongoDB).
+Sacco Management System using MERN Stack (NodeJS, ReactJS, ExpressJS and MongoDB).
 
-1. Create and Manage Employee Profile
+1. Create and Manage Sacco members Profile
 2. Apply for Branch Transfer request
-3. Employee Leave apply (Release on next update)
+3. Sacco member Loan apply (Release on next update)
 
 More features will me coming in future... keep watch my updates
 
@@ -40,7 +40,7 @@ module.exports = {
 
 ## App Info
 
-Demo URL : https://mern-ems.herokuapp.com/
+
 
 Admin Username: test@test.com
 Password : password
