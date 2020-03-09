@@ -1,9 +1,9 @@
 # GLOBALSACCO - MERN STACKS
 
-Sacco Management System using MERN Stack (NodeJS, ReactJS, ExpressJS and MongoDB).
+>Sacco Members Management System using MERN Stack (NodeJS, ReactJS, ExpressJS and MongoDB).
 
 1. Create and Manage Sacco members Profile
-2. Apply for Branch Transfer request
+2. Apply for Shares Transfer request
 3. Sacco member Loan apply (Release on next update)
 
 More features will me coming in future... keep watch my updates
